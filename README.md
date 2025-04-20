@@ -9,6 +9,13 @@
   Based in Toronto 🍁
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankush-Gauro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="GitHub stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankush-Gauro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top languages"  />
+</div>
+
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBkcnlrc3Jrem9wOWpuOHpmMzBtOG43Zzh0ZTBmMGN5cWNzOTB2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DOcAEJMV7VkyRyw4uz/giphy.gif"  />
+
 ---
 
 ### 🧠 About Me
